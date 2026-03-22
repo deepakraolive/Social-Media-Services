@@ -4,14 +4,14 @@
 
 🔗 Live Website: https://social-media-services.vercel.app/
 
-⸻
+<br>
 
 📌 Overview
 
 This project is a Social Media Services Website designed to showcase digital marketing services for individuals, startups, and businesses.
 It provides a clean, modern interface where users can explore services, understand offerings, and connect easily.
 
-⸻
+<br>
 
 🚀 Features
 	•	🎯 Clean and responsive UI
@@ -20,9 +20,7 @@ It provides a clean, modern interface where users can explore services, understa
 	•	📢 Service showcase sections
 	•	💼 Professional layout for branding
 	•	⚡ Fast loading (hosted on Vercel)
-
-⸻
-
+<br>
 🛠️ Tech Stack
 	•	HTML5
 	•	CSS3
@@ -79,14 +77,3 @@ This project reflects my journey in:
 	•	Social Media Management
 	•	Frontend Development
 	•	Building real-world digital solutions
-
-⸻
-
-⭐ If you like this project, consider giving it a star!
-:::
-
-⸻
-
-If you want, I can:
-	•	make this more professional (GitHub-level)
-	•	or tailor it for placements / portfolio / clients 🚀
