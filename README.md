@@ -1,5 +1,3 @@
-:::writing{variant=“standard” id=“58241”}
-
 🌐 Social Media Services Website
 
 🔗 Live Website: https://social-media-services.vercel.app/
@@ -26,7 +24,8 @@ It provides a clean, modern interface where users can explore services, understa
 	•	CSS3
 	•	Vercel (for deployment)
 
-⸻
+
+<br>
 
 📂 Project Structure
 
@@ -37,7 +36,7 @@ social-media-services/
 │── images/
 
 
-⸻
+<br>
 
 💡 Purpose of the Project
 
@@ -47,30 +46,27 @@ This project was built to:
 	•	Understand UI/UX design basics
 	•	Showcase social media marketing services
 
-⸻
-
+<br>
 🧑‍💻 Author
 
 Deepak Rao
 	•	🌐 Portfolio: https://social-media-services.vercel.app/
 	•	💼 Role: Social Media Manager & Developer
 
-⸻
-
+<br>
 📈 Future Improvements
 	•	🔧 Add backend integration (forms, database)
 	•	📊 Analytics integration
 	•	🤖 AI-based content suggestions
 	•	📞 Contact form with email support
 
-⸻
 
+<br>
 📬 Feedback
 
 If you have suggestions or feedback, feel free to connect!
 
-⸻
-
+<br>
 ⭐ Acknowledgement
 
 This project reflects my journey in:
